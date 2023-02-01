@@ -25,7 +25,9 @@
 </div>
 <body>
         <div class="box">
-        <ol>Apply for LOR</ol>
+        <button class="button1">Apply for LOR</button>
+        
+        <ol></ol>
         <ol>Apply for Certificates</ol>
         <ol>Apply for text1</ol>
         <ol>Apply for text2</ol>
