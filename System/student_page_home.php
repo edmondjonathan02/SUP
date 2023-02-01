@@ -19,14 +19,11 @@
 </div>
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#forms">Forms</a>
+  <a href="forms.php">Forms</a>
   <a href="#letters">Letters</a>
   <a href="#feepayment">Fee Payment</a>
 </div>
-<div class="buttons">
-  <div class="small box">
-    <h3>Apply for LOR</h3>
-  </div>
+
 </div>
 
   <!-- <a href="logout.php">
