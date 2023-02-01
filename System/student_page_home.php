@@ -23,6 +23,11 @@
   <a href="#letters">Letters</a>
   <a href="#feepayment">Fee Payment</a>
 </div>
+<div class="buttons">
+  <div class="small box">
+    <h3>Apply for LOR</h3>
+  </div>
+</div>
 
   <!-- <a href="logout.php">
   <button> Logout</button>
