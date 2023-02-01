@@ -6,11 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/student_page_home.css" class="css">
 
-    <title>Forms</title>
+    <title>Student Dashboard</title>
 </head>
 <body>
-    <p>
-    <h3>Apply for LORD</h3>
-    </p>
+<p>
+  <img src="fcritlogo.png">
+  <h3> Agnel Charities</h3>
+  <h1>Fr. C. Rodrigues Institute of Technology</h1>
+</p>
+<div class="head_text">
+    Student Service Portal
+</div>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="forms.php">Forms</a>
+  <a href="#letters">Letters</a>
+  <a href="#feepayment">Fee Payment</a>
+</div>
+<body>
+        <div class="box">
+        <ol>Apply for LOR</ol>
+        <ol>Apply for Certificates</ol>
+        <ol>Apply for text1</ol>
+        <ol>Apply for text2</ol>
+        </div>
 
 </body>
