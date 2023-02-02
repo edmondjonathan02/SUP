@@ -41,12 +41,5 @@
           <a href="LOR.php">
         <button class="button1">Apply for LOR</button>
         </a>
-        </div>
-        
-        <ol></ol>
-        <ol></ol>
-        <ol>Apply for text1</ol>
-        <ol>Apply for text2</ol>
-        </div>
 
 </body>
