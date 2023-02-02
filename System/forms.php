@@ -24,11 +24,27 @@
   <a href="#feepayment">Fee Payment</a>
 </div>
 <body>
-        <div class="box">
+  <div class=container>
+        
+          <a href="LOR.php">
+        <input type="submit" value="Apply for LOR">
+        </a>
+        <br>
+          <a href="Certificates.php">
+        <button class="button1">Apply for Certificates</button>
+        </a>
+        <br>
+          <a href="Clubs.php">
+        <button class="button1">Join Clubs</button>
+        </a>
+    <br>  
+          <a href="LOR.php">
         <button class="button1">Apply for LOR</button>
+        </a>
+        </div>
         
         <ol></ol>
-        <ol>Apply for Certificates</ol>
+        <ol></ol>
         <ol>Apply for text1</ol>
         <ol>Apply for text2</ol>
         </div>
