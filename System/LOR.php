@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,11 +11,11 @@
     <title>Student Dashboard</title>
 </head>
 <body>
-<p>
-  <img src="fcritlogo.png">
-  <h3> Agnel Charities</h3>
+<div class="navbar">
+  <img alt="logo" class="img_logo"  src="fcritlogo.png">
+  <!-- <h3> Agnel Charities</h3> -->
   <h1>Fr. C. Rodrigues Institute of Technology</h1>
-</p>
+</div>
 <div class="head_text">
     Student Service Portal
 </div>
@@ -24,7 +26,7 @@
   <a href="#feepayment">Fee Payment</a>
 </div>
 <body>
-    
+  <br><br>
 <div class="container">
   <form>
     <div class="row">
@@ -73,7 +75,7 @@
             <input type="text" placeholder="YYYY"/>
           </div>
         </div>
-        <div class="col-half">
+        <!-- <div class="col-half"> -->
         <h4>Date of Graduation</h4>
         <div class="input-group">
           <div class="col-third">
@@ -86,8 +88,15 @@
             <input type="text" placeholder="YYYY"/>
           </div>
         </div>
+        
       </div>
+     
       </div>
+      <div class="submit">
+    <input type="submit" value="Submit" >
     </div>
+    </div>
+  
+   
   </form>
 </div>

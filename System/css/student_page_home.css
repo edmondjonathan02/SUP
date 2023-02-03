@@ -15,11 +15,11 @@ img{
 
 h1,h3{
   color: white;
-  background-color: #12876f;
-  padding-left: 110px;
+  /* background-color: #12876f;
+  padding-left: 110px; */
 }
 body{
-  background: #1abc9c;
+  background-color: #4CAF50;
   overflow: hidden;
 }
 
@@ -70,7 +70,12 @@ body{
     cursor: pointer;
     border-radius: 4px;
   }
-  .container{
-    background-color: #ffff;
+  
+  .logo{
+    position: inherit;
+    float: left;
   }
   
+  .navbar-text{
+    text-align: auto;
+  }

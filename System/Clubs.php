@@ -1,3 +1,6 @@
+<?php 
+  include "./includes/navbar.php"
+  ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,20 +12,7 @@
     <title>Student Dashboard</title>
 </head>
 <body>
-<p>
-  <img src="fcritlogo.png">
-  <h3> Agnel Charities</h3>
-  <h1>Fr. C. Rodrigues Institute of Technology</h1>
-</p>
-<div class="head_text">
-    Student Service Portal
-</div>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="forms.php">Forms</a>
-  <a href="#letters">Letters</a>
-  <a href="#feepayment">Fee Payment</a>
-</div>
+
 <body>
     
 <div class="container">
@@ -63,12 +53,15 @@
       <div class="col-half">
         <h4>Select Club</h4></h4>
         <select>
-            <option>Event1</option>
-            <option>Event2</option>
-            <option>Event3</option>
-            <option>Event4</option>
+            <option>Club 1</option>
+            <option>CLub 2</option>
+            <option>Club 3</option>
+            <option>Club 4</option>
             <option>Event5</option>
           </select>
+          <div class="submit">
+    <input type="submit" value="Submit" >
+    </div>
         </div>
         <!-- <div class="col-half">
         <h4>Date of Graduation</h4>

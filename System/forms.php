@@ -10,9 +10,11 @@
 </head>
 <body>
 <p>
-  <img src="fcritlogo.png">
-  <h3> Agnel Charities</h3>
-  <h1>Fr. C. Rodrigues Institute of Technology</h1>
+  <div class="navbar-text">  
+    <img class="logo" src="fcritlogo.png">
+    <h3> Agnel Charities</h3>
+    <h1>Fr. C. Rodrigues Institute of Technology</h1>
+  </div>
 </p>
 <div class="head_text">
     Student Service Portal
@@ -26,10 +28,7 @@
 <body>
   <div class=container>
         
-          <a href="LOR.php">
-        <input type="submit" value="Apply for LOR">
-        </a>
-        <br>
+          <br>
           <a href="Certificates.php">
         <button class="button1">Apply for Certificates</button>
         </a>
@@ -41,5 +40,5 @@
           <a href="LOR.php">
         <button class="button1">Apply for LOR</button>
         </a>
-
+  
 </body>

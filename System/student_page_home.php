@@ -1,3 +1,6 @@
+<?php 
+  include "./includes/navbar.php"
+  ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,22 +12,6 @@
     <title>Student Dashboard</title>
 </head>
 <body>
-<p>
-  <img src="fcritlogo.png">
-  <h3> Agnel Charities</h3>
-  <h1>Fr. C. Rodrigues Institute of Technology</h1>
-</p>
-<div class="head_text">
-    Student Service Portal
-</div>
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="forms.php">Forms</a>
-  <a href="#letters">Letters</a>
-  <a href="#feepayment">Fee Payment</a>
-</div>
-
-</div>
 
   <!-- <a href="logout.php">
   <button> Logout</button>
