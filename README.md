@@ -1,4 +1,4 @@
-# Student Setvice Portal
+# Student Service Portal
 ## Fr. C. Rodrigues Institute of Technology
 ### Department of Computer Engineering
 
